@@ -93,7 +93,7 @@ predict = predictions.argmax(1)
 import csv
 
 # csvfile = file('prediction2.csv', 'wb')
-f = open('predict_20.csv', 'w')
+f = open('predict.csv', 'w')
 writer = csv.writer(f)
 index = np.linspace(1, 500, 500)
 writer.writerow(index)
