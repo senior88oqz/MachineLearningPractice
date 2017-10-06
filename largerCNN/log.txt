@@ -1,2 +1,90 @@
-35000/35000 [==============================] - 411s - loss: 0.1295 - acc: 0.9632 - val_loss: 0.0997 - val_acc: 0.9731
-Large CNN Error: 2.69%
+Total epoch=  3
+Train on 35000 samples, validate on 10500 samples
+Epoch 1/1
+476s - loss: 0.2759 - acc: 0.9222 - val_loss: 0.1656 - val_acc: 0.9563
+Saved model to disk
+Total epoch=  4
+Train on 35000 samples, validate on 10500 samples
+Epoch 1/1
+463s - loss: 0.1508 - acc: 0.9586 - val_loss: 0.1241 - val_acc: 0.9690
+Saved model to disk
+Total epoch=  5
+Train on 35000 samples, validate on 10500 samples
+Epoch 1/1
+461s - loss: 0.1172 - acc: 0.9685 - val_loss: 0.0969 - val_acc: 0.9732
+Saved model to disk
+Total epoch=  6
+Train on 35000 samples, validate on 10500 samples
+Epoch 1/1
+486s - loss: 0.0977 - acc: 0.9739 - val_loss: 0.0805 - val_acc: 0.9787
+Saved model to disk
+Total epoch=  7
+Train on 35000 samples, validate on 10500 samples
+Epoch 1/1
+460s - loss: 0.0783 - acc: 0.9789 - val_loss: 0.0605 - val_acc: 0.9843
+Saved model to disk
+Total epoch=  8
+Train on 35000 samples, validate on 10500 samples
+Epoch 1/1
+457s - loss: 0.0646 - acc: 0.9830 - val_loss: 0.0490 - val_acc: 0.9887
+Saved model to disk
+Total epoch=  9
+Train on 35000 samples, validate on 10500 samples
+Epoch 1/1
+456s - loss: 0.0521 - acc: 0.9867 - val_loss: 0.0386 - val_acc: 0.9909
+Saved model to disk
+Total epoch=  10
+Train on 35000 samples, validate on 10500 samples
+Epoch 1/1
+455s - loss: 0.0447 - acc: 0.9888 - val_loss: 0.0323 - val_acc: 0.9913
+Saved model to disk
+Total epoch=  11
+Train on 35000 samples, validate on 10500 samples
+Epoch 1/1
+458s - loss: 0.0345 - acc: 0.9917 - val_loss: 0.0232 - val_acc: 0.9947
+Saved model to disk
+Total epoch=  12
+Train on 35000 samples, validate on 10500 samples
+Epoch 1/1
+460s - loss: 0.0296 - acc: 0.9926 - val_loss: 0.0195 - val_acc: 0.9959
+Saved model to disk
+Total epoch=  13
+Train on 35000 samples, validate on 10500 samples
+Epoch 1/1
+459s - loss: 0.0224 - acc: 0.9954 - val_loss: 0.0127 - val_acc: 0.9975
+Saved model to disk
+Total epoch=  14
+Train on 35000 samples, validate on 10500 samples
+Epoch 1/1
+461s - loss: 0.0178 - acc: 0.9963 - val_loss: 0.0136 - val_acc: 0.9968
+Saved model to disk
+Total epoch=  15
+Train on 35000 samples, validate on 10500 samples
+Epoch 1/1
+463s - loss: 0.0158 - acc: 0.9961 - val_loss: 0.0097 - val_acc: 0.9977
+Saved model to disk
+Total epoch=  16
+Train on 35000 samples, validate on 10500 samples
+Epoch 1/1
+457s - loss: 0.0126 - acc: 0.9973 - val_loss: 0.0109 - val_acc: 0.9971
+Saved model to disk
+Total epoch=  17
+Train on 35000 samples, validate on 10500 samples
+Epoch 1/1
+457s - loss: 0.0113 - acc: 0.9975 - val_loss: 0.0065 - val_acc: 0.9987
+Saved model to disk
+Total epoch=  18
+Train on 35000 samples, validate on 10500 samples
+Epoch 1/1
+456s - loss: 0.0082 - acc: 0.9981 - val_loss: 0.0041 - val_acc: 0.9990
+Saved model to disk
+Total epoch=  19
+Train on 35000 samples, validate on 10500 samples
+Epoch 1/1
+453s - loss: 0.0092 - acc: 0.9979 - val_loss: 0.0194 - val_acc: 0.9935
+Saved model to disk
+Total epoch=  20
+Train on 35000 samples, validate on 10500 samples
+Epoch 1/1
+453s - loss: 0.0151 - acc: 0.9958 - val_loss: 0.0071 - val_acc: 0.9982
+Saved model to disk
